@@ -1,0 +1,22 @@
+name: Weekly PV Internship Reminder
+on:
+  schedule:
+    - cron: "0 8 * * MON"  # Mondays 09:00 Africa/Lagos (UTC+1)
+  workflow_dispatch:
+permissions:
+  issues: write
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create reminder issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📅 Weekly check: Workora PV tasks — ${new Date().toISOString().slice(0,10)}`,
+              body: "Weekly reminder to update TASK_TRACKER.md, push today's work to GitHub, and submit on Workora. One task focus per day — see README.md for the 30-day plan. Signed PDFs use assets/signature.png.",
+              labels: ["reminder"]
+            })

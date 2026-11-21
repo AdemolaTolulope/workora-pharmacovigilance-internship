@@ -1,0 +1,16 @@
+# Credentials — never commit tokens
+*.token
+token.txt
+.env
+.git-credentials
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Large intermediates (keep final PDFs)
+workora_pv/output/
