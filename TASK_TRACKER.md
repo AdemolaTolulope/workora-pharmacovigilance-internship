@@ -6,7 +6,7 @@ Rule: **One main task per day.** Even if you finish early, use the rest of the d
 | Date | Day | Focus | Deliverable | GitHub commit |
 |------|-----|-------|-------------|---------------|
 | Fri 20 Nov | Enrolled | Offer letter received | — | Repo created |
-| Sat 21 Nov | Day 1 | **Task 1: LinkedIn onboarding** — post offer letter, tag @Workora Labs, submit post URL | LinkedIn URL submitted on Workora | `Task01: LinkedIn post URL + offer letter` |
+| Sat 21 Nov | Day 1 | **Task 1: LinkedIn onboarding** — post offer letter, tag @Workora Labs, submit post URL | ✅ LinkedIn URL submitted — Under Review | `Task01: LinkedIn post URL + offer letter` |
 | Sun 22 Nov | Day 2 | **Task 2: ADR Identification** — review 18 cases, master table | ✅ PDF ready (signed) — submit on Workora | `Task02: ADR Identification PDF (18 cases)` |
 | Mon 23 Nov | Day 3 | Task 2 review + Task 3 pack download | Task 3 pack downloaded | `Task03: pack downloaded, plan` |
 | Tue 24 Nov | Day 4 | **Task 3: ADR Reporting** — Yellow Card / MedWatch form | Reporting form PDF | `Task03: ADR Reporting form` |

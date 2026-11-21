@@ -40,7 +40,7 @@ workora-pharmacovigilance-internship/
 
 | # | Task | Folder | Status | Target Date |
 |---|------|--------|--------|-------------|
-| 1 | Platform Onboarding & Offer Letter Acceptance (LinkedIn post) | Task01_LinkedIn_Onboarding | ⬜ Pending | 21 Nov 2026 |
+| 1 | Platform Onboarding & Offer Letter Acceptance (LinkedIn post) | Task01_LinkedIn_Onboarding | ✅ Submitted — Under Review | 21 Nov 2026 |
 | 2 | ADR Identification Basics | Task02_ADR_Identification | ✅ PDF ready (signed) | 22 Nov 2026 |
 | 3 | ADR Reporting & Documentation | Task03_ADR_Reporting | ⬜ Pending | 24 Nov 2026 |
 | 4 | Causality Assessment (Naranjo / WHO-UMC) | Task04_Causality_Assessment | ⬜ Pending | 26 Nov 2026 |
