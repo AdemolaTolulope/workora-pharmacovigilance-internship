@@ -1,0 +1,11 @@
+QuestionNumber,Question,YesScore,NoScore,UnknownScore
+1,Previous conclusive reports?,1,0,0
+2,Event after drug administered?,2,-1,0
+3,Improved on withdrawal/antagonist?,1,0,0
+4,Reappeared on re-administration?,2,-1,0
+5,Alternative causes?,-1,2,0
+6,Reappeared with placebo?,-1,1,0
+7,Drug level in toxic range?,1,0,0
+8,Dose-response relationship?,1,0,0
+9,Similar previous reaction?,1,0,0
+10,Objective evidence?,1,0,0
